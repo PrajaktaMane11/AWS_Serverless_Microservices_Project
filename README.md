@@ -101,7 +101,7 @@ From the graph, able to pick Cheapest -> minimal cost or Fastest -> minimal dura
 | Memory (MB) | 128 | 1024 |
 | ---      | ---       | ---       |
 | Avg Duration (ms) | 618 | 359 |
-| ---      | ---       | ---       |
+| ---      | :---:       | :---:      |
 |Performance Test Report|![lamda-API-Gateway-performance-report-1](images/lamda-API-Gateway-performance-report-1.jpg) |![lamda-API-Gateway-performance-report-2](images/lamda-API-gateway-performance-report-2.jpg) |
 
 
