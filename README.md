@@ -104,7 +104,7 @@ From the graph, able to pick Cheapest -> minimal cost or Fastest -> minimal dura
 
 | Lambda Memory 128 MB     | Lambda Memory 1024 MB |
 | ---      | ---       |
-|![] (images/lamda-API-Gateway-performance-report-1.jpg) |![] (images/lamda-API-gateway-performance-report-2.jpg) |
+|![lamda-API-Gateway-performance-report-1](images/lamda-API-Gateway-performance-report-1.jpg) |![lamda-API-Gateway-performance-report-2](images/lamda-API-gateway-performance-report-2.jpg) |
 
 
 
