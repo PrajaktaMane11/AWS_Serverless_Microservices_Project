@@ -44,9 +44,9 @@ It then outputs a visualization showing:
 
 ### Steps to Use AWS Lambda Power Tuning
 **Step 1: Deploy the Power Tuning Step Function**
+
 AWS has a pre-built Step Function:
-Go to Serverless Application Repository -> Click Available Applications
-type “power” and 
+Go to Serverless Application Repository -> Click Available Applications type “power” and 
 Click checkbox “Show apps that create custom IAM roles or resource policies”
 
 ![AWS Lambda Power Tuning](images/aws-lambda-power-tuning.jpg)
@@ -78,6 +78,7 @@ Click "Deploy" -> This will create:
 
 ```
 **Step 3: Run and Monitor**
+
 The Step Function will invoke your Lambda N times at each memory setting.
 It collects:  Duration, Cost per invocation, Failures (if any)
 
