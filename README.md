@@ -82,7 +82,7 @@ Click "Deploy" -> This will create:
 The Step Function will invoke your Lambda N times at each memory setting.
 It collects:  Duration, Cost per invocation, Failures (if any)
 
-**Step 4:Graphical Visualization**
+**Step 4: Graphical Visualization**
 * X-axis: Memory (MB)
 * Y-axis: Cost / Duration
 
@@ -101,5 +101,4 @@ From the graph, able to pick Cheapest -> minimal cost or Fastest -> minimal dura
 | **Avg Duration (ms)** | **618**| **359** |
 |**Performance Test Report**|![lamda-API-Gateway-performance-report-1](images/lamda-API-Gateway-performance-report-1.jpg) |![lamda-API-Gateway-performance-report-2](images/lamda-API-gateway-performance-report-2.jpg) |
 
-
-
+#
