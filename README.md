@@ -97,4 +97,14 @@ From the graph, able to pick Cheapest -> minimal cost or Fastest -> minimal dura
 ### Performance Metrics on simulation of concurrent users and requests using Postman’s Collection Runner 
 ##Performance Analysis and Results
 
+| Memory (MB) | Avg Duration (ms) |
+| ------------- | ------------- |
+| 128 | 618 |
+| 1024 | 359 |
+
+| Lambda Memory 128 MB     | Lambda Memory 1024 MB |
+| ---      | ---       |
+| (images/lamda-API-Gateway-performance-report-1.jpg) | (images/lamda-API-gateway-performance-report-2.jpg) |
+
+
 
