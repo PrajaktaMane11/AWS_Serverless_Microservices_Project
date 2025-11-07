@@ -25,10 +25,10 @@ When combined, you get modular, scalable applications that are cheaper and easie
 #
 ### AWS Lambda Power Tuning 
 It is powered by AWS Step Functions tool designed to help optimize AWS Lambda functions for cost and/or performance by identifying the best memory and CPU configuration
-i. Lambda function with multiple power configurations ( from 128 MB to 10 GB)
-ii. CPU and network scale linearly with memory
-iii. Choosing too little memory -> slow function -> higher duration cost
-iv. Choosing too much memory -> faster but more expensive per ms
+1. Lambda function with multiple power configurations ( from 128 MB to 10 GB)
+2. CPU and network scale linearly with memory
+3. Choosing too little memory -> slow function -> higher duration cost
+4. Choosing too much memory -> faster but more expensive per ms
 Power Tuning finds the perfect spot between speed and cost.
 
 ### How It Works
